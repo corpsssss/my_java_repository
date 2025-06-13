@@ -26,6 +26,7 @@ public class LabActivity5QuizAppAWT extends Frame implements ActionListener, Ite
 
     public LabActivity5QuizAppAWT() {
         setTitle("AWT Quiz Application");
+        setResizable(false);
         setSize(500, 300);
         setLayout(null);
 

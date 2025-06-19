@@ -1,0 +1,57 @@
+# 📚 Java Lab Activities Collection  
+This repository contains a series of Java-based activities demonstrating the progression from basic console applications to more advanced GUI 
+and event-driven programs. Each folder corresponds to a unique lab exercise designed to reinforce foundational and intermediate Java concepts.
+
+---
+
+## 📁 LabActivity1EmployeeInformationSystem
+A simple console application that collects an employee’s name, age, hours worked, and hourly wage. It calculates and displays the employee’s 
+daily salary using basic input handling and arithmetic operations.
+
+---
+
+## 📁 LabActivity2EmployeeInformationSystemPart2
+An enhanced version of the Lab Activity 1. It introduces additional salary computations (weekly, monthly, yearly), retirement gap calculation, 
+use of the `Math` and `String` classes, and cleaner data formatting.
+
+---
+
+## 📁 LabActivity3ConditionalStatement  
+This program adds structured decision-making to an employee information system using `if-else` and `switch` statements. It validates user inputs 
+such as age, work hours, and role codes, and calculates salary breakdowns and retirement eligibility while applying conditional logic to adjust yearly 
+net wages. It introduces clear control flow, exception handling through termination conditions, and reinforces the use of branching logic in real-world scenarios.
+
+---
+
+## 📁 LabActivity4EmpInfoSystemGUI
+A GUI-based employee information system built using the AWT library. It allows users to input personal and work-related data through interactive fields, 
+validates entries, and displays results in a read-only output area.
+
+---
+
+## 📁 LabActivity5QuizAppAWT
+A multiple-choice quiz application that uses AWT components such as `CheckboxGroup`, `Button`, and `Label`. It handles question navigation, scoring, 
+and input validation in an intuitive interface driven by event listeners.
+
+---
+
+## 📁 LabActivity6SwingToDoList
+A task management tool built with Java Swing. Users can add tasks through a form dialog and view them in a non-editable table. It demonstrates `JFrame`,
+`JTable`, `JTextArea`, and custom dialog validation for task entry.
+
+---
+
+## 📁 MyMidtermLabExam
+A console-based IT ticketing system that allows users to add, update, and view tickets with basic reporting. It showcases switch-case flow, input handling 
+with arrays, simple data validation, and modular method design.
+
+---
+
+## 📁 MyFinalsLabExam
+This Java Swing program implements a modern-style calculator with custom-styled buttons and a fully interactive GUI. It supports core operations (add, subtract, 
+multiply, divide) and extended functions like square root, square, percentage, and negation.
+
+---
+
+## ✅ To run these files:
+Each folder contains a `.java` file that can be compiled and run with your preferred Java IDE.
